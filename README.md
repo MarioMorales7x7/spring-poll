@@ -41,11 +41,11 @@ Polls can be limited by days and hours and users can then add an unspecified amo
   </tr>
   <tr rowspan="2">
     <td class="subheading">Backend</td>
-    <td><img src="https://lh5.googleusercontent.com/rdAoVdYKOCnmtev6t7DJrEY7mG4iYsRPqeTH0Z-OrlsVmiea3q5SMtOGNSa7HzJcyxcIcelTacG5gPNgyBoIviiNcLbohQAicvpldcfM32Klb_ewouDRd67OtYhUAU1CEZB4rBqB" width="75" /></td> 
-    <td><img src="https://lh6.googleusercontent.com/tKlT8lGB2bTDqSilr_a2y8vaO-QBUdcUIYASnslf-RAKTxUEiEBq-_gTVBP0irIP1ZWNuSvp1fouOJrQBXUr0joVmBZzNyOec4jBpOyVogPZMOYhPH6YQwYOiLdZnfuaDnFel9rn" width="75" style="padding-left: 27px;"/></td>
-    <td><img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" width="50" style="padding-left: 15px;"/></td>
+    <td><img src="https://spring.io/img/homepage/icon-spring-boot.svg" width="75" /></td> 
+    <td><img src="https://hibernate.org/images/hibernate-logo.svg" width="75" style="padding-left: 27px;"/></td>
+    <td><img src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL.svg" width="50" style="padding-left: 15px;"/></td>
     <td></td>
-    <td class="tech">(Node express Postgres)</td>
+    <td class="tech">(Spring Boot/Hibernate/MySQL)</td>
   </tr>
   
   <tr>
