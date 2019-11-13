@@ -1,7 +1,7 @@
 # Spring-Poll
 An interactive polling application
 
-# ![GIF OF DEMO](https://i.imgur.com/J2iznmk.png)
+# ![GIF OF DEMO](https://i.imgur.com/)
 
 # <p align="center">
   <img width="800" height="500" src="">
@@ -11,9 +11,10 @@ An interactive polling application
 
 ## Introduction
 
-This project's intent was to produce a MVP where a OAuth and Spring Authentication was utilized. 
+This project's intent was to produce a MVP where a OAuth and Spring Security was utilized.
 
-## About 
+## About
+
 *Spring-Poll* is intended for users that want to create time sensitive polls
  in a secure setting. <br />
 
@@ -21,7 +22,8 @@ Polls can be limited by days and hours and users can then add an unspecified amo
 
 *Spring-Poll* utilizes a SQL database that aggregates time-stamped resources from profile and role managed entities.
 
-## Tech Stack 
+## Tech Stack
+
 *Spring-Poll* was built primarily with ReactJS on the front end and Java/Spring Boot on the backend. Other key technologies used are listed below: 
 
 ## Technologies
@@ -47,28 +49,19 @@ Polls can be limited by days and hours and users can then add an unspecified amo
   </tr>
   
   <tr>
-      <td class="subheading">Dev Tools</td>
+      <td>Dev Tools</td>
       <td><img src='https://cityscoutssss.s3.us-east-2.amazonaws.com/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb7987106ca27.6083469215555359850278.png' width="60"></td>
       <td><img src='https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2017/01/babel.png?w=1280' width="80" style="padding-left: 27px"><img></td>
       <td><img src='https://imga.apk.tools/150/a/e/5/st.tom.cronjobs.png' width="50" style="padding-left: 15px"/></td>
       <td></td>
-      <td class="tech">(Webpack Babel Cron-jobs)</td>
+      <td>Webpack/Babel/Maven</td>
     </tr>
       <tr rowspan="3">
-    <td class="subheading">Testing</td>
+    <td>Testing</td>
     <td>Chai</td>
     <td>Mocha</td>
     <td>Jest</td>
-    <td>Enzyme</td>
     <td></td>
-  </tr>
-  <tr>
-    <td class="subheading">APIs</td>
-    <td>Google OaUth</td>
-    <td>Google Images</td>
-    <td>TicketMaster</td>
-    <td>EventBrite</td>
-    <td>PredictHq</td>
   </tr>
 </table>
 
