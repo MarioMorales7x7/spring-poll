@@ -34,12 +34,13 @@ Polls can be limited by days and hours and users can then add an unspecified amo
     <td><img src="https://lh3.googleusercontent.com/ZIHOUCCxFaB7NirPhEX4K8cyTPIMvxvdJxpuhjb_qJ_dk-z7qEgD8riaR0ODXzXQZYn23zHpFiwGzxTDT88FTLeUMoPqlIjyLKoL1am8MH5pCoJExjL8SUC8uaeeiAjvQB0_vym6" width="65"/></td> 
     <td><img src="https://material-ui.com/static/images/material-ui-logo.svg" width="58"/></td>
     <td><img src="https://lh5.googleusercontent.com/pqPRWyCMu39CU4GAERH3XI0fri2uJzMteIV5t-4qAG566IJWdXRABxLjV1jwdVvID-NvFw3USgyM8FXC5w_yAimYz4FY1gVEm96Yd2JQZh-pYl33lHpbOI7-3-uTixqgX1XHRker" width="75"/></td>
+    <td></td>
     <td class="tech">React/Material-ui/ReactRouter</td>
   </tr>
   <tr rowspan="2">
     <td class="subheading">Backend</td>
     <td><img src="https://spring.io/img/homepage/icon-spring-boot.svg" width="55"/></td> 
-    <td><img src="https://img.stackshare.io/service/6656/com.castsoftware.springsecurity.png" width="55"/></td>
+    <td><img src="https://img.stackshare.io/service/6656/com.castsoftware.springsecurity.png" width="65"/></td>
     <td><img src="https://hibernate.org/images/hibernate-logo.svg" width="85"/></td>
     <td><img src="https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype-700x413.png" width="75"/></td>
     <td class="tech">Spring Boot/Hibernate/MySQL</td>
@@ -50,6 +51,7 @@ Polls can be limited by days and hours and users can then add an unspecified amo
       <td><img src='https://cityscoutssss.s3.us-east-2.amazonaws.com/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb7987106ca27.6083469215555359850278.png' width="60"></td>
       <td><img src='https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2017/01/babel.png?w=1280' width="80"><img></td>
       <td><img src='http://maven.apache.org/images/maven-logo-black-on-white.png' width="70"/></td>
+      <td></td>
       <td>Webpack/Babel/Maven</td>
     </tr>
       <tr rowspan="3">
