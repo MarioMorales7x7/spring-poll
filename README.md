@@ -41,7 +41,7 @@ Polls can be limited by days and hours and users can then add an unspecified amo
   </tr>
   <tr rowspan="2">
     <td class="subheading">Backend</td>
-    <td><img src="https://spring.io/img/homepage/icon-spring-boot.svg" width="45" /></td> 
+    <td><img src="https://spring.io/img/homepage/icon-spring-boot.svg" width="45" style="padding-left: 15px;"/></td> 
     <td><img src="https://hibernate.org/images/hibernate-logo.svg" width="75" style="padding-left: 27px;"/></td>
     <td><img src="https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype-700x413.png" width="75" style="padding-left: 15px;"/></td>
     <td></td>
@@ -52,7 +52,7 @@ Polls can be limited by days and hours and users can then add an unspecified amo
       <td>Dev Tools</td>
       <td><img src='https://cityscoutssss.s3.us-east-2.amazonaws.com/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb7987106ca27.6083469215555359850278.png' width="60"></td>
       <td><img src='https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2017/01/babel.png?w=1280' width="80" style="padding-left: 27px"><img></td>
-      <td><img src='http://maven.apache.org/images/maven-logo-black-on-white.png' width="50" style="padding-left: 15px"/></td>
+      <td><img src='http://maven.apache.org/images/maven-logo-black-on-white.png' width="50" style="padding-left: 27px"/></td>
       <td></td>
       <td>Webpack/Babel/Maven</td>
     </tr>
