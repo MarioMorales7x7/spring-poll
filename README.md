@@ -1,7 +1,8 @@
 # Spring-Poll
 An interactive polling application using a Java backend and a React frontend
 
-# ![LOGO](<img width="800" height="500" src="https://github.com/MarioMorales7x7/spring-poll/blob/master/pictures/springpoll.png">)
+# ![LOGO]
+<img width="800" height="500" src="https://github.com/MarioMorales7x7/spring-poll/blob/master/pictures/springpoll.png">
 
 <p align="center">
   <img width="800" height="500" src="">
