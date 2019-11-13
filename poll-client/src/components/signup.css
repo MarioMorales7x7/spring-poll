@@ -1,0 +1,18 @@
+.signupSubmit{
+
+}
+
+.signupForm{
+    width: 100%;
+}
+
+.signupAvatar{
+    margin: 10px;
+}
+
+.signupPaper{
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
