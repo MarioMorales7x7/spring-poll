@@ -43,7 +43,7 @@ Polls can be limited by days and hours and users can then add an unspecified amo
     <td class="subheading">Backend</td>
     <td><img src="https://spring.io/img/homepage/icon-spring-boot.svg" width="50" /></td> 
     <td><img src="https://hibernate.org/images/hibernate-logo.svg" width="75" style="padding-left: 27px;"/></td>
-    <td><img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj32cOP3uflAhXjmq0KHW4wD7YQjhx6BAgBEAI&url=https%3A%2F%2Fwww.mysql.com%2Fabout%2Flegal%2Flogos.html&psig=AOvVaw0-v9uMD51e1I0migWBQ30O&ust=1573753318487657" width="50" style="padding-left: 15px;"/></td>
+    <td><img src="https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype-700x413.png" width="50" style="padding-left: 15px;"/></td>
     <td></td>
     <td class="tech">(Spring Boot/Hibernate/MySQL)</td>
   </tr>
