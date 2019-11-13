@@ -95,7 +95,13 @@ My biggest take away is that Java is very robust and the Spring Boot simplified 
 The MVP of the app scaffolds the api endpoints for login/signup and sets up the backend to handle request from users of different rolls. The main focus of the MVP is to set up OAuth (JWT) and Spring Security. Functionality of the application will be added as time permits.
 
 MVP was achieved in 48 hours:
+![IMG OF SIGNUP](https://github.com/MarioMorales7x7/spring-poll/blob/master/pictures/Post_Request_User_Signup.PNG)
 
+![IMG OF LOGIN](https://github.com/MarioMorales7x7/spring-poll/blob/master/pictures/Post_Request_User_Login_Fail.PNG)
+
+![IMG OF LOGIN](https://github.com/MarioMorales7x7/spring-poll/blob/master/pictures/Post_Request_User_Login_Pass.PNG)
+
+![IMG OF QUERY](https://github.com/MarioMorales7x7/spring-poll/blob/master/pictures/MySQL_Query.PNG)
 
 ### How the App Works:
 ![GIF OF DEMO]()
