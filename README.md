@@ -57,11 +57,6 @@ Polls can be limited by days and hours and users can then add an unspecified amo
       <td>Webpack/Babel/Maven</td>
     </tr>
       <tr rowspan="3">
-    <td>Testing</td>
-    <td>Chai</td>
-    <td>Mocha</td>
-    <td>Jest</td>
-    <td></td>
   </tr>
 </table>
 
