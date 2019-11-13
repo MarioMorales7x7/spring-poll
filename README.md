@@ -140,4 +140,4 @@ The MVP of the app retrieves events from multiple APIs, and displays events whic
 ### How the App Works:
 ![GIF OF DEMO](https://media.giphy.com/media/Yq8XBJUsoPTHaFkc7p/giphy.gif)
 
-![IMG OF SCHEMA](https://raw.githubusercontent.com/hratx-blue-ocean/blue512/development/db/Schema.png)
+![IMG OF SCHEMA](https://github.com/MarioMorales7x7/spring-poll/blob/master/Schema_UML_diagram.png)
