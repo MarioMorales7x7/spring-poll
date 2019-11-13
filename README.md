@@ -1,7 +1,7 @@
 # Spring-Poll
 An interactive polling application using a Java backend and a React frontend
 
-# ![GIF OF DEMO](https://i.imgur.com/)
+# ![LOGO](https://i.imgur.com/)
 
 <p align="center">
   <img width="800" height="500" src="">
