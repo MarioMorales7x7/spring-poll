@@ -58,86 +58,49 @@ Polls can be limited by days and hours and users can then add an unspecified amo
   </tr>
 </table>
 
-## Technical Challenges and research that you anticipated
-
-    * Why, what was the plan to overcome those challenges?
-    * What did you learn?
-  
-## Challenges that were unexpected
-
-    * Why was it a challenge
-    * What did you learn?
-  
-## Video Demo / Screen shot walkthrough of the app 
-
-    * What were the user stories /  what was MVP (mention Minimal Viable Product)
-  
-## How does the app work?
-
-    * What happens behind the scenes when the user interacts with it? 
-    * OR What are all the place the data travels?  What happens to that data?
-    * Optionally include a diagram
-    * How does the tech stack come together?
-
-## What research was required?
-
-## Workflow and Key lessons from your team - specifically those related to: Agile, CI/CD, testing, working with external stakeholders, ticketing, and user stories.
-
-    * Your git workflow, style guides, commit guides, etc
-    * What did you learn from the process
-    * What were key takeaways from stand ups, code reviews, etc
-    * Writing tests
-    * Link to your trello board, discuss completed tickets
-
-## Any non-MVP tickets (optional)
-
- - Code refactorings
- - Performance Optimizations
- - Additional features
- - etc
-
-## Notes from your Sprint Retro
-
-
-
-## What additional features do you plan to add, how do you plan to implement those features?
-
-    * Future refactoring?
-    * Additional dev ops considerations?
-    * UI/UX additions?
-
-
-
-### Technical Challenges/Research
+## Technical Challenges/Research
 Some unexpected challenges encountered while building this app:
-- Compilation conflicts with linting when using libraries such as moment.js
-- Compartmentalizing various feature builds across many developers with minimal conflict
-- Implementation of OAuth brought about interesting and unforseen challenges
+- Implementation of OAuth and Spring Security brought about interesting and unforseen challenges
+- Compile errors across different files when data was transformed in unintended ways
+- Password length requirements when converting into a hash to be stored in the database
 
-As a team, we gained experience with large-scale SQL manipulation, with utilizing cron jobs, with cross-component Material-UI, and with building efficient data compatibility layers.
+# Deliverables
+I developed the following user stories to track deliverables and set expectations for future features:
 
+## User Stories
+* As a user I should see different questions I can answer when I load the page
+* As a user I want to be able to create an account
+* As a user I do not want to be overwhelmed by the amount of polls presented to me
+* As a user I want my password to be securely stored
+* As a user I do not want someone else to use my profile without my credentials
+* As a user I should be able to leave the page and come back within a short amount of time and not have to log in again
+* As a user I should be able to logout
+* As a user I do not want stay logged into the application when I leave the site after a specified amount of time
+* As a user I want to able to create a poll
+* As a user I should be able to vote on polls
+* As a user I should be able to see all my past polls
+* As a user I should be able to the results of my polls
 
-# Client Deliverables
-Our team developed the following user stories to track deliverables and meet the expectations of our client:
+## Research Requirements
 
-#### User Stories
-* As a user I should see suggestions for activities to do during my free time
-* As a user I would like to see suggestions for what to do during the next three days
-* As a user I do not want to be overwhelmed by choices on the initial visit to the page
-* As a user I want an application that integrates with my Google Calendar
-* As a user I do not want to see events that occur during times I am busy
-* As a user I should be able to click a button to add an event directly to my calendar
-* As a user I should be able to indicate my preference for what types of events I do and do not want to see
-* As a user I should be able to indicate times I am unavailable that are not already on my Google Calendar
-* As a user I should be able to reject a suggested event and be presented with a different event for that day
-* As a user I should be able to browse all events on a given day
-* As a user I should be able to browse all events available on all days
+The biggest research requirement was how to utilize spring boot. I have an understanding of Java but 
+I never attempted production level code with Java until this application. My experience revolved around Java applets which are mostly absolete in the current market.
+
+## Key Lessons
+
+My biggest take away is that Java is very robust and the Spring Boot simplified the overall process by cutting down on the upfront configuration time. Another lesson is that in order for Java to be effective on the back end a developer has to actively apply the principle of seperation of concerns. Java is too robust to not seperate it into different (easily navigatable) file structures. Lastly,the Object Oriented Programming aspect was very helpful because it cut down on time cost when I could just extend a super class I created and then modified the child to be what I needed for the project.
 
 ## Minimum Viable Product (MVP)
 
-The MVP of the app retrieves events from multiple APIs, and displays events which fit users' free time availability and category selection preferences. Users can choose to add an event to their calendar, to reject an event from the list, and to modify their categories in settings.
+The MVP of the app scaffolds the api endpoints for login/signup and sets up the backend to handle request from users of different rolls. The main focus of the MVP is to set up OAuth (JWT) and Spring Security. Functionality of the application will be added as time permits.
+
+MVP was achieved in 48 hours:
+
 
 ### How the App Works:
 ![GIF OF DEMO]()
 
-![IMG OF SCHEMA](https://github.com/MarioMorales7x7/spring-poll/blob/master/Schema_UML_diagram.png)
+![IMG OF SCHEMA](https://github.com/MarioMorales7x7/spring-poll/blob/master/pictures/Schema_UML_diagram.png)
+
+## Future Releases
+The application will updated approximately once a week to integrate user centric features and build on the front end
